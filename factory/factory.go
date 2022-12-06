@@ -1,11 +1,11 @@
 package factory
 
 import (
-	"He_Quan"
-	"He_Quan/exchanges/binance"
-	"He_Quan/exchanges/gateio"
-	"He_Quan/exchanges/huobi"
-	"He_Quan/exchanges/okex"
+	"github.com/xiaolo66/He_Quan"
+	"github.com/xiaolo66/He_Quan/exchanges/binance"
+	"github.com/xiaolo66/He_Quan/exchanges/gateio"
+	"github.com/xiaolo66/He_Quan/exchanges/huobi"
+	"github.com/xiaolo66/He_Quan/exchanges/okex"
 )
 
 func NewExchange(t He_Quan.ExchangeType, option He_Quan.Options) He_Quan.IExchange {

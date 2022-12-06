@@ -1,6 +1,6 @@
 package coinbase
 
-import "He_Quan"
+import "github.com/xiaolo66/He_Quan"
 
 type CoinBase struct {
 	CoinBaseRest

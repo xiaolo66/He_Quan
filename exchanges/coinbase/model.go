@@ -1,8 +1,8 @@
 package coinbase
 
 import (
-	"He_Quan"
-	. "He_Quan/utils"
+	"github.com/xiaolo66/He_Quan"
+	. "github.com/xiaolo66/He_Quan/utils"
 	"sort"
 	"strings"
 	"time"

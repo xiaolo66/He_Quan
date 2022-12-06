@@ -1,11 +1,11 @@
 package okex
 
 import (
-	"He_Quan"
+	"github.com/xiaolo66/He_Quan"
 	"strconv"
 	"strings"
 	"time"
-	."He_Quan/utils"
+	."github.com/xiaolo66/He_Quan/utils"
 
 )
 

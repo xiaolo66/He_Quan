@@ -1,11 +1,11 @@
 package binance
 import (
-	"He_Quan"
+	"github.com/xiaolo66/He_Quan"
 	"fmt"
 	"strconv"
 	"strings"
 	"time"
-	."He_Quan/utils"
+	."github.com/xiaolo66/He_Quan/utils"
 
 
 )

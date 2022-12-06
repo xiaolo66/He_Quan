@@ -1,8 +1,8 @@
 package exchanges
 
 import (
-	"He_Quan"
-	"He_Quan/exchanges/websocket"
+	"github.com/xiaolo66/He_Quan"
+	"github.com/xiaolo66/He_Quan/exchanges/websocket"
 	"fmt"
 	"sync"
 

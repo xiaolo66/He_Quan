@@ -1,9 +1,9 @@
 package coinbase
 
 import (
-	"He_Quan"
-	"He_Quan/exchanges"
-	. "He_Quan/utils"
+	"github.com/xiaolo66/He_Quan"
+	"github.com/xiaolo66/He_Quan/exchanges"
+	. "github.com/xiaolo66/He_Quan/utils"
 	"crypto/hmac"
 	"crypto/sha256"
 	"encoding/base64"

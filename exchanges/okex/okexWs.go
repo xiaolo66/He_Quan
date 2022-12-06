@@ -1,8 +1,8 @@
 package okex
 
 import (
-	"He_Quan/exchanges"
-	"He_Quan/exchanges/websocket"
+	"github.com/xiaolo66/He_Quan/exchanges"
+	"github.com/xiaolo66/He_Quan/exchanges/websocket"
 	"bytes"
 	"compress/flate"
 	"encoding/json"
@@ -13,9 +13,9 @@ import (
 	"log"
 	"strings"
 	"sync"
-	"He_Quan"
+	"github.com/xiaolo66/He_Quan"
 	"time"
-	."He_Quan/utils"
+	."github.com/xiaolo66/He_Quan/utils"
 )
 
 type OkexWs struct {

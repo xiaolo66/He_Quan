@@ -9,9 +9,9 @@ package He_Quan
 import (
 	"errors"
 	"fmt"
+	. "github.com/xiaolo66/He_Quan/utils"
 	"sort"
 	"time"
-	."He_Quan/utils"
 )
 
 type ExchangeType string

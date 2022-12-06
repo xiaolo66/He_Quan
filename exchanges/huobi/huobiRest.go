@@ -1,8 +1,8 @@
 package huobi
 
 import (
-	"He_Quan/exchanges"
-	."He_Quan/utils"
+	"github.com/xiaolo66/He_Quan/exchanges"
+	."github.com/xiaolo66/He_Quan/utils"
 	"encoding/json"
 	"errors"
 	"fmt"
@@ -13,7 +13,7 @@ import (
 	"strconv"
 	"strings"
 	"time"
-	"He_Quan"
+	"github.com/xiaolo66/He_Quan"
 
 )
 

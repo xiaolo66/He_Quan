@@ -1,7 +1,7 @@
 package okex
 
 import (
-	"He_Quan"
+	"github.com/xiaolo66/He_Quan"
 )
 
 type Okex struct {

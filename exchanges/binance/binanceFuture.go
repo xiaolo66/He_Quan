@@ -1,6 +1,6 @@
 package binance
 
-import "He_Quan"
+import "github.com/xiaolo66/He_Quan"
 
 type BinanceFuture struct {
 	BinanceFutureRest

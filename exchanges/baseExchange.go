@@ -1,7 +1,7 @@
 package exchanges
 
 import (
-	"He_Quan"
+	"github.com/xiaolo66/He_Quan"
 	"errors"
 	"fmt"
 	"io/ioutil"
